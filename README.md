@@ -7,3 +7,4 @@
 ## References
 
 * [RunPod](https://www.runpod.io/) - GPU cloud computing platform
+* [TabNine](https://www.tabnine.com/) - AI code completion
